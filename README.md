@@ -10,25 +10,21 @@ Collect awesome items of OpenSCAD app, libs and examples.
 ## Table of Contents
 
 - [Section Title](#section-title)
-- [Other Awesome Lists](#other-awesome-lists)
+
+
+- **Outside**
+  - [Other Awesome Lists](./garden/other-lists.md)
 
 - **Lobby**
-  - [Contribute](./lobby/contribute)
-  - [Credits](./lobby/credits)
-  - [License](./lobby/copyright)
+  - [Contribute](./lobby/contribute.md)
+  - [Credits](./lobby/credits.md)
+  - [License](./lobby/copyright.md)
 
 ## Section Title
 
 Section description (optional).
 
 - [Item](https://github.com/Pawamoy/cookiecutter-awesome) – Item short description.
-
-## Other Awesome Lists
-
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome)
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-* [The Warren](https://github.com/torchhound/warren)
 
 
 
