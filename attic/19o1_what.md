@@ -1,6 +1,7 @@
 - [ ] TODO: add frontmatter
 
-[:up:][../README.md]
+
+[:up:](../README.md)
 
 ## What about this [19o1]
 

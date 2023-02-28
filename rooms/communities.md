@@ -5,6 +5,8 @@ state: imported
 source: https://raw.githubusercontent.com/dahoo/awesome-openscad/0aba35f98a11cb72406a04e7a3ed599bf5a1cf1d/README.md
 ---
 
+[:up:](../README.md)
+
 # Communities - OpenSCAD
 
 
