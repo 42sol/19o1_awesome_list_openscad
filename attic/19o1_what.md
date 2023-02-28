@@ -1,5 +1,7 @@
 - [ ] TODO: add frontmatter
 
+[:up:][../README.md]
+
 ## What about this [19o1]
 
 This is a personal identifier based on the system from Professor Luhmann who used a `Zettelkasten` to manage his train of thoughts.
