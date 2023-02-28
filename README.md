@@ -23,9 +23,6 @@ Collect awesome items of OpenSCAD app, libs and examples.
 
 - **Attic**
   - [Obsolete](./attic/obsolete.md)
+  - [19o-what](./attic/19o1_what.md)
   - [example (Template)](./attic/example.md)
-
-
-
-[[attic/obsolence]]
 
