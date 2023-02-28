@@ -1,6 +1,6 @@
 ---
 tag:
-authors: [elasticdotventures]
+authors: [elasticdotventures, felix@42sol.eu]
 state: imported
 source: https://raw.githubusercontent.com/dahoo/awesome-openscad/0aba35f98a11cb72406a04e7a3ed599bf5a1cf1d/README.md
 ---
@@ -21,6 +21,6 @@ source: https://raw.githubusercontent.com/dahoo/awesome-openscad/0aba35f98a11cb7
 ## Other Communities including topic
 
 - [English OpenSCAD Group on Printables.com](https://www.printables.com/group/openscad-NZojD6R/comments) - discuss and share models with more than 100 makers.
-- [German OpenSCAD Group on Printables.com](https://www.printables.com/group/openscad-NZojD6R/comments) - discuss and share models with at least me. TODO: the group needs to be created (next action: logo)
+- [German OpenSCAD Group on Printables.com](https://www.printables.com/group/openscadgerman-deutsch-eQ3qjPR/comments) - discuss and share models with at least me - in German.
 
 - [CadHub Discord](https://cadhub.xyz/) - young project to have one place for all parametric tools.
