@@ -1,6 +1,6 @@
-CC0 1.0 Universal
+# CC0 1.0 Universal
 
-Statement of Purpose
+## Statement of Purpose
 
 The laws of most jurisdictions throughout the world automatically confer
 exclusive Copyright and Related Rights (defined below) upon the creator and
@@ -26,7 +26,9 @@ and publicly distribute the Work under its terms, with knowledge of his or her
 Copyright and Related Rights in the Work and the meaning and intended legal
 effect of CC0 on those rights.
 
-1. Copyright and Related Rights. A Work made available under CC0 may be
+## 1. Copyright and Related Rights.
+
+A Work made available under CC0 may be
 protected by copyright and related or neighboring rights ("Copyright and
 Related Rights"). Copyright and Related Rights include, but are not limited
 to, the following:
@@ -53,7 +55,8 @@ to, the following:
   vii. other similar, equivalent or corresponding rights throughout the world
   based on applicable law or treaty, and any national implementations thereof.
 
-2. Waiver. To the greatest extent permitted by, but not in contravention of,
+## 2. Waiver.
+To the greatest extent permitted by, but not in contravention of,
 applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and
 unconditionally waives, abandons, and surrenders all of Affirmer's Copyright
 and Related Rights and associated claims and causes of action, whether now
@@ -69,7 +72,8 @@ shall not be subject to revocation, rescission, cancellation, termination, or
 any other legal or equitable action to disrupt the quiet enjoyment of the Work
 by the public as contemplated by Affirmer's express Statement of Purpose.
 
-3. Public License Fallback. Should any part of the Waiver for any reason be
+## 3. Public License Fallback.
+Should any part of the Waiver for any reason be
 judged legally invalid or ineffective under applicable law, then the Waiver
 shall be preserved to the maximum extent permitted taking into account
 Affirmer's express Statement of Purpose. In addition, to the extent the Waiver
@@ -90,7 +94,7 @@ Copyright and Related Rights in the Work or (ii) assert any associated claims
 and causes of action with respect to the Work, in either case contrary to
 Affirmer's express Statement of Purpose.
 
-4. Limitations and Disclaimers.
+## 4. Limitations and Disclaimers.
 
   a. No trademark or patent rights held by Affirmer are waived, abandoned,
   surrendered, licensed or otherwise affected by this document.
@@ -112,5 +116,6 @@ Affirmer's express Statement of Purpose.
   party to this document and has no duty or obligation with respect to this
   CC0 or use of the Work.
 
-For more information, please see
+## For more information,
+please see
 <http://creativecommons.org/publicdomain/zero/1.0/>

@@ -1,7 +1,6 @@
+# [19o1] awesome_openscad [![Awesome][awesome-badge]][awesome-link]
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-# 19oa1_awesome_openscad [![Awesome][awesome-badge]][awesome-link]
+[![Project Status: WIP – Initial development is in progress (2023-02-28), but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 
 > A curated list of awesome openscad resouces :tada:
 
@@ -9,41 +8,29 @@ Collect awesome items of OpenSCAD app, libs and examples.
 
 ## Table of Contents
 
-- [Section Title](#section-title)
-
-
-- **Outside**
-  - [Other Awesome Lists](./garden/other-lists.md)
-
 - **Lobby**
   - [Contribute](./lobby/contribute.md)
   - [Credits](./lobby/credits.md)
   - [License](./lobby/copyright.md)
 
-## Section Title
+- **Rooms**
+- [Communities](./rooms/communities.md)
 
-Section description (optional).
+- **Outside**
+  - [Other Awesome Lists](./garden/other-lists.md)
 
-- [Item](https://github.com/Pawamoy/cookiecutter-awesome) – Item short description.
-
-
-
-[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[awesome-link]: https://github.com/sindresorhus/awesome
-[CC0-badge]: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
-[CC0-link]: https://creativecommons.org/publicdomain/zero/1.0/
-[cookiecutter]: https://github.com/audreyr/cookiecutter
-[cookiecutter-awesome]: https://github.com/moodule/cookiecutter-git
+- **Attic**
+  - [Obsolete](./attic/obsolete.md)
+  - [example (Template)](./attic/example.md)
 
 
---- Input from
-
+--- Input from elasticdotventures
 
 ## Goal
 Attempting to bring more awesomeness & harmony to the OpenSCAD community.
 
 
-[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+
 
 I am marking this project as WIP planning for a better awesome-list.   An even awesomer openSCAD object/tool library 'embeddable awesome browser' & object discovery & repo package manager.
 
@@ -56,9 +43,9 @@ If you have an openscad project and would like to be part of this list please ad
 # awesome-openscad [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of awesome OpenSCAD resources
 
-<iframe src="https://ghbtns.com/github-btn.html?user=elasticdotventures/awesome-openscad&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="400" height="30" title="GitHub"></iframe>
-
 # Awesome communities
+
+
 * [https://github.com/openscad/openscad]()
 * [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.libera.chat/openscad.png)](https://kiwiirc.com/client/irc.libera.chat/#openscad)
 
@@ -114,10 +101,8 @@ A collection of awesome OpenSCAD resources
 * https://github.com/thehans/funcutils
     functional openscad
 
-
-
 ## Ubiqutious OpenSCAD 😎
-- popular & useful Libraries/tool-kits
+> popular & useful Libraries/tool-kits
 
 * https://github.com/htho/scadlib
 * dotSCAD v3.2
