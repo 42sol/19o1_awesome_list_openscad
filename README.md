@@ -26,3 +26,18 @@ Collect awesome items of OpenSCAD app, libs and examples.
   - [19o-what](./attic/19o1_what.md)
   - [example (Template)](./attic/example.md)
 
+
+
+## Goal
+Attempting to bring more awesomeness & harmony to the OpenSCAD community.
+
+
+I am marking this project as WIP planning for a better awesome-list.   An even awesomer OpenSCAD object/tool library 'embeddable awesome browser' & object discovery & repo package manager.
+
+Using RUST & git, perhaps based on RUST spacedrive that is updating with compatible projects built into this awesome list.
+
+The intention is to make something that is one unified repo for OpenSCAD package objects (similar to a npmjs.org pip, but using RUST cargo)
+
+> **IMPORTANT:**
+> If you have an OpenSCAD project and would like to be part of this list please
+> add your project, create a pull request and stay tuned.
