@@ -7,6 +7,8 @@ So feel free to create a [new merge/pull request][merge-link]!
 
 And make sure to follow the [guidelines](#merge-pull-request-guidelines).
 
+> use https://github.com/markdown-templates/markdown-emojis for emojis
+
 ## Merge/Pull Request Guidelines
 
 Before you submit a pull request, check that it meets these guidelines:
