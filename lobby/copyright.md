@@ -4,7 +4,9 @@ date: 2023-02-28
 authors: [felix@42sol.eu]
 ---
 
-# License
+[:up:](../README.md)
+
+## License
 
 [![CC0][CC0-badge]][CC0-link]
 

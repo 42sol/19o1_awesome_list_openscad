@@ -29,14 +29,18 @@ Collect awesome items of OpenSCAD app, libs and examples.
 
 
 ## Goal
-Attempting to bring more awesomeness & harmony to the OpenSCAD community.
+Attempting to bring more awesomeness & harmony to the `OpenSCAD` community.
 
+Collect curated bits and pieces around the OpenSCAD topic.
+An awesome-list consist normally in links only. Due to the nature of `OpenSCAD` it will also contain files and images (renderings) of models.
 
-I am marking this project as WIP planning for a better awesome-list.   An even awesomer OpenSCAD object/tool library 'embeddable awesome browser' & object discovery & repo package manager.
+This awesome list is modeled like a house. Feel free to entry in the [lobby with organizational](./lobby/readme.adoc) or enter the different [rooms grouped in topics ](./rooms/readme.adoc) or just stroll through the [garden and look into the garden of our neighbors](./garden/readme.adoc)
 
-Using RUST & git, perhaps based on RUST spacedrive that is updating with compatible projects built into this awesome list.
+> **NOTE:**
+> For models please use www.printable.com links if available.
 
-The intention is to make something that is one unified repo for OpenSCAD package objects (similar to a npmjs.org pip, but using RUST cargo)
+I am marking this project as WIP planning for a better awesome-list.
+
 
 > **IMPORTANT:**
 > If you have an OpenSCAD project and would like to be part of this list please
