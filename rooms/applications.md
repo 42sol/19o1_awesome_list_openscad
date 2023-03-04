@@ -12,9 +12,11 @@ source: https://raw.githubusercontent.com/dahoo/awesome-openscad/0aba35f98a11cb7
 > **Section:**
 > Applications supporting the topic.
 
+> ACTIVE SURVEY: [support us with your experience](https://docs.google.com/forms/d/e/1FAIpQLSdGBaZfQhJIO__JgdqIk-ivUffYIIKgB4pcQlIoDxMs0K0k_g/viewform)
+
 > TODO: this should be a table suggesting environments & differences
 > **IMPORTANT:**
-> This page needs love -- there are surely more apps and editors
+> This page needs love -- there are surely more apps and editors, better link to homepages not to github.
 
 | Application | Rating | linOS | macOS | mobile | winOS | webApp | Description |
 |-------------|-----|-------|-------|-------|--------|------|-------------|
@@ -23,9 +25,7 @@ source: https://raw.githubusercontent.com/dahoo/awesome-openscad/0aba35f98a11cb7
 | [JSCAD](https://github.com/jscad/OpenJSCAD.org) | :grey_exclamation: :grey_exclamation: :grey_exclamation: :grey_exclamation: :grey_exclamation: | :arrow_forward: | :arrow_forward: | :white_medium_square: | :arrow_forward: | :white_check_mark: |previously known as OpenJSCAD, online self-hosteable web-based ui & CLI. |
 | [Visual Studio Code](https://github.com/Antyos/vscode-openscad) | :star: :star: :star: :star: :grey_exclamation: | :white_check_mark: | :white_check_mark: | :white_medium_square: |:white_check_mark: | :white_medium_square: | Language Service Provider "LSP" module (should be compatible with any editor, but only tested on vs-code) |
 |  [cadhub](https://github.com/Irev-Dev/cadhub) | :grey_exclamation: :grey_exclamation: :grey_exclamation: :grey_exclamation: :grey_exclamation: | :arrow_forward: | :arrow_forward: | :arrow_forward: | :arrow_forward:  | :white_check_mark: | 👀 Live Demo: [https://cadhub.xyz/]() |
-|  [Blender](https://github.com/elasticdotventures/blender-openSCAD) | :white_check_mark: | :white_check_mark: | :white_medium_square: | :white_check_mark: | :white_medium_square: | ??? |
-| [Netbeans, VIM, Emacs, Atom]() | :grey_exclamation: :grey_exclamation: :grey_exclamation: :grey_exclamation: :grey_exclamation: | :white_check_mark: | :white_check_mark: | :white_medium_square: | :white_check_mark: | :white_medium_square: | ??? |
-
+|  [SolidPython](https://solidpython.readthedocs.io/en/latest/#using-solidpython) | :grey_exclamation: :grey_exclamation: :grey_exclamation: :grey_exclamation: :grey_exclamation: | :arrow_forward: | :arrow_forward: | :arrow_forward: | :arrow_forward:  | :white_check_mark: | Not really an application but a way to use python to generate your OpenSCAD models/files. |
 
 
 ## More ...
