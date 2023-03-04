@@ -9,32 +9,32 @@ Collect awesome items of OpenSCAD app, libs and examples.
 ## Table of Contents
 
 - **Lobby**
-  - [Goal](#goal)
+  - [Goal (start here)](#goal)
   - [Contribute](./lobby/contribute.md)
   - [Credits](./lobby/credits.md)
   - [License](./lobby/copyright.md)
 
-- **Rooms**
+- **Rooms (sorted alphabetically)**
   - [Communities](./rooms/communities.md)
 
-- **Outside**
+- **Garden**
   - [Friends](./garden/friends-of-openscad.md)
   - [Other Awesome Lists](./garden/other-lists.md)
 
-- **Attic**
+- **Attic (messy) **
   - [Obsolete](./attic/obsolete.md)
   - [19o-what](./attic/19o1_what.md)
   - [example (Template)](./attic/example.md)
 
 
 
-## Goal
+## Goal (start here)
 Attempting to bring more awesomeness & harmony to the `OpenSCAD` community.
 
 Collect curated bits and pieces around the OpenSCAD topic.
 An awesome-list consist normally in links only. Due to the nature of `OpenSCAD` it will also contain files and images (renderings) of models.
 
-This awesome list is modeled like a house. Feel free to entry in the [lobby with organizational](./lobby/readme.adoc) or enter the different [rooms grouped in topics ](./rooms/readme.adoc) or just stroll through the [garden and look into the garden of our neighbors](./garden/readme.adoc)
+This awesome list is modeled like a house. Feel free to entry in the [lobby with organizational information](./lobby/readme.adoc) or enter the different [rooms grouped in topics ](./rooms/readme.adoc) or just stroll through the [garden and look into the garden of our neighbors](./garden/readme.adoc)
 
 > **NOTE:**
 > For models please use www.printable.com links if available.
