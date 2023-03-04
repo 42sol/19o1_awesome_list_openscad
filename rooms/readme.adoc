@@ -1,0 +1,7 @@
+= Rooms in the awesome house of `OpenSCAD`
+
+The rooms are the general and group curated topics around the project.
+
+== Content (alphabetical)
+
+- [[communities.md]]

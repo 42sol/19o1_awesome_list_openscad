@@ -1,0 +1,7 @@
+= Garden in the awesome house of `OpenSCAD`
+
+The garden is a good place to look into the neighbors house and related topic of the project.
+
+== Content (alphabetical)
+
+- [[communities.md]]

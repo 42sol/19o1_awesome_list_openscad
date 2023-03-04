@@ -1,0 +1,10 @@
+= Desks in the awesome house of `OpenSCAD`
+
+The desk is a place to start **yoour** working with the project.
+
+NOTE: Feel free to add your personal desk under the `workshop\desks` folder.
+
+IMPORTANT: The desk owners are responsible for their content. It may not be curated. Please be aware of the [contributing](../../lobby/contribute.md).
+
+== Content (alphabetical)
+

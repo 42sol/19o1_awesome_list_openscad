@@ -1,0 +1,8 @@
+= Workshop in the awesome house of `OpenSCAD`
+
+The workshop is a place to start working with the project.
+
+NOTE: Feel free to add your personal desk under the `workshop\desks` folder.
+
+== Content (alphabetical)
+

@@ -1,0 +1,6 @@
+= Attic in the awesome house of `OpenSCAD`
+
+The attic keeps old and stored stuff of the project.
+
+IMPORTANT: This part is messy! Links may not be working in here!
+
